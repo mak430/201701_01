@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<html>
+<template_head>
+  <meta charset="utf-8" />
+  <title>Twelve Cupcakes</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <link href='//fonts.googleapis.com/css?family=Enriqueta' rel='stylesheet' type='text/css' />
+  <link href="../css/template.css" rel="stylesheet" type="text/css" />
+</template_head>
+<template_body>
+  <div class="wrapper margin_auto background_white">
+    <div class="header border_color_theme">
+      <div class="text_align_right language_toggle"></div>
+      <div class="clear_both line_height_0"></div>
+      <div class="float_left">
+        <img src="../image/template/top_pic01.jpg" />
+      </div>
+      <div class="float_left">
+        <img src="../image/template/top_pic02.jpg" />
+      </div>
+      <div class="float_left">
+        <img src="../image/template/top_pic03.jpg" />
+      </div>
+    </div>
+    <div id="template_content_socket" class="content clear_both">[--template_content--]</div>
+    <div class="clear_both line_height_0"></div>
+    <div class="footer clear_both border_color_theme color_darkgrey background_white">
+      <div class="para_1 float_left">Twelve Cupcakes</div>
+      <div class="para_2 float_left">T: 21726190 \ <a href="mailto:enquiry@twelve-cupcakes.com.hk" class="a_reset">enquiry@twelve-cupcakes.com.hk</a></div>
+      <div class="clear_both line_height_0"></div>
+    </div>
+  </div>
+</template_body>
+</html>
