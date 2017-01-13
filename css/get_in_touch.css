@@ -7,10 +7,7 @@
   font-family: 'Open Sans',sans-serif;
   width: 300px;
 }
-.para_block textarea {
-  height: 76px;
-}
-.para_block input, .para_block textarea {
+.para_block input {
   margin: 0px 0px 4px 0px;
   padding: 5px;
   border: 0px;

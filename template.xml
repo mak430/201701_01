@@ -12,13 +12,13 @@
     <div class="header border_color_theme">
       <div class="text_align_right language_toggle"></div>
       <div class="clear_both line_height_0"></div>
-      <div class="float_left">
+      <div class="float_left line_height_0">
         <img src="../image/template/top_pic01.jpg" />
       </div>
-      <div class="float_left">
+      <div class="float_left line_height_0">
         <img src="../image/template/top_pic02.jpg" />
       </div>
-      <div class="float_left">
+      <div class="float_left line_height_0">
         <img src="../image/template/top_pic03.jpg" />
       </div>
     </div>
