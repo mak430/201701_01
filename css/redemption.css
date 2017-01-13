@@ -23,7 +23,7 @@
 }
 .para_block_2 input {
   display: block;
-  float: right;
+  margin: auto;
   height: 16px;
 }
 .para_block_3 {
