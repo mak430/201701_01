@@ -8,7 +8,7 @@
   width: 300px;
 }
 .para_block input {
-  margin: 0px 0px 4px 0px;
+  margin: 0px auto 4px auto;
   padding: 5px;
   border: 0px;
   width: 250px;
@@ -23,7 +23,6 @@
 }
 .para_block_2 input {
   display: block;
-  margin: auto;
   height: 16px;
 }
 .para_block_3 {
