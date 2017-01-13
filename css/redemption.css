@@ -15,6 +15,7 @@
 }
 .para_block .button {
   height: 16px;
+  width: auto;
 }
 .para_block_2 {
   width: 380px;
