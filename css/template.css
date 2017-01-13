@@ -39,10 +39,10 @@ img {
   background-color: #ffffff;
 }
 .background_color_theme {
-  background-color: rgba(0, 73, 112, 1);
+  background-color: #F32F88;
 }
 .background_color_hover:hover {
-  background-color: #F32F88;
+  background-color: #056090;
 }
 .background_color_selected {
   background-color: rgba(88, 88, 88, 1);
@@ -54,7 +54,7 @@ img {
   color: #ffffff;
 }
 .color_theme {
-  color: rgba(0, 73, 112, 1);
+  color: #F32F88;
 }
 .color_darkgrey {
   color: rgba(88, 88, 88, 1)
@@ -63,7 +63,7 @@ img {
   border-color: #ffffff;
 }
 .border_color_theme {
-  border-color: rgba(0, 73, 112, 1);
+  border-color: #F32F88;
 }
 .list_style_none {
   list-style: none;
