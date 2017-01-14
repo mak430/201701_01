@@ -25,6 +25,9 @@
   display: block;
   height: 16px;
 }
+#msg_login_fail {
+  display: none;
+}
 .para_block_3 {
   width: 260px;
   text-align: right;

@@ -4,6 +4,8 @@ function check_form() {
   } else {
     location.href = 'index.htm?login_fail=1';
   }
+  
+  return false;
 }
 
 $(document).ready(function(){

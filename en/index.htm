@@ -15,12 +15,12 @@
     <div class="para_block para_block_1 float_left">
       <p>&nbsp;</p>
     </div>
-    <form action="index.htm" method="post" onsubmit="check_form" enctype="text/plain">
+    <form action="index.htm" method="post" onsubmit="check_form()" enctype="text/plain">
       <div class="para_block para_block_2 float_left">
         <input type="text" name="user" placeholder="Username" class="background_color_theme color_white" />
         <input type="password" name="pass" placeholder="Password" class="background_color_theme color_white" />
         <input type="submit" class="button background_color_theme color_white" value="Login" />
-        <div class="hidden" id="msg_login_fail">Login fail</div>
+        <div id="msg_login_fail">Login fail</div>
       </div>
     </form>
     <div class="para_block para_block_3 float_left">
