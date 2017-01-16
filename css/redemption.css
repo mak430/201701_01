@@ -30,6 +30,7 @@
   text-align: right;
 }
 .redemption_history {
+  padding-top: 30px;
   margin: auto;
-  width: 500px;
+  width: 800px;
 }
