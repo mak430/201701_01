@@ -27,6 +27,8 @@
 }
 #msg_login_fail {
   display: none;
+  text-align: center;
+  color: red;
 }
 .para_block_3 {
   width: 260px;
